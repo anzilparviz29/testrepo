@@ -7,3 +7,4 @@ void main(){
     van= and+sat;
     printf("%d )
 }
+hi there iam using whaaatsapp
